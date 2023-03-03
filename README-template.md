@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Interactive_rating_component](https://your-solution-url.com)
-- Live Site URL: [site URL](https://your-live-site-url.com)
+- Solution URL: [Interactive_rating_component](https://github.com/Shiba-Tatsuya/interactive_rating_component)
+- Live Site URL: [site URL](https://shiba-tatsuya.github.io/interactive_rating_component/)
 
 ## My process
 I created two different cards one for rating and another for saying thank you.When the submit button is clicked rating card's display property will be switched to none and another card's display property will be switched to display using Eventhandler in Javascript.
